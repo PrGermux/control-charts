@@ -1,4 +1,4 @@
-### Control Charts
+# Control Charts
 
 **Control Charts** is a Python-based GUI application designed for visualizing and monitoring control chart data in real-time. It leverages PyQt5 for an interactive and user-friendly interface, allowing users to dynamically explore data trends, calculate averages, and view control limits for various parameters. This tool is customizable and can be connected to databases and files for flexible data sourcing.
 
