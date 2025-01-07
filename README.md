@@ -29,8 +29,7 @@ This tool is ideal for:
 
 #### Screenshots:
 
-![grafik](https://github.com/user-attachments/assets/78c2aa70-0553-4bed-8313-6c5cdc8005d7)
-
+![grafik](https://github.com/user-attachments/assets/0943f627-a0d4-4050-8f66-7adfd616c22b)
 
 #### Installation
 1. Clone the repository:
